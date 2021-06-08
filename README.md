@@ -7,3 +7,8 @@
 - 设置提醒的时间间隔：比如1小时；
 - 自动计算时间，到点提醒
 
+## 开发参考
+
+- [Develop extensions and themes](https://developer.chrome.com/docs/extensions/mv3/devguide/)
+
+
