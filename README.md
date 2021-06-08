@@ -9,6 +9,6 @@
 
 ## 开发参考
 
-- [Develop extensions and themes](https://developer.chrome.com/docs/extensions/mv3/devguide/)
+- [官网：Develop extensions and themes](https://developer.chrome.com/docs/extensions/mv3/devguide/)
 
 
